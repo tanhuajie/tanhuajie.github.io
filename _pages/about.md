@@ -10,22 +10,22 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a third-year M.S. student at the School of Computer Science, Peking University, advised by [Prof. Shanghang Zhang](https://pku-hmi-lab.github.io/HMI-Web/leader.html). Previously, I received a dual-degree B.Eng. from Tianjin University (College of Intelligence and Computing & College of Microelectronics) and was honored with the **Outstanding Graduate Award**.
+I am Huajie Tan (谭桦杰), a third-year M.S. student at the School of Computer Science, Peking University, advised by [Prof. Shanghang Zhang](https://pku-hmi-lab.github.io/HMI-Web/leader.html). Previously, I received my dual-degree B.Eng. from Tianjin University (College of Intelligence and Computing & College of Microelectronics) and was honored with the **Outstanding Graduate Award**.
 
-My research focuses on **embodied AI and multi-modal foundation models**. I am currently an intern at the [Beijing Academy of Artificial Intelligence (BAAI)](https://www.baai.ac.cn/en/), exploring pathways toward general-purpose robotic intelligence and real-world deployment of embodied systems. I am also open to collaborative opportunities and research partnerships.
+My research focuses on **embodied AI and multi-modal foundation models**. I am currently an intern at the [Beijing Academy of Artificial Intelligence (BAAI)](https://www.baai.ac.cn/en/), exploring pathways toward general-purpose robotic intelligence and real-world deployment of embodied systems. I am also open to collaborative opportunities and research partnerships, feel free to email me: *tanhuajie@stu.pku.edu.cn*. We are also hiring research interns.
 
-Meanwhile, I am now seeking **entrepreneurship opportunities**. I have received multiple **top-tier offers** from leading industry labs, e.g., [*Huawei Top Minds (华为天少)*](https://career.huawei.com/reccampportal/portal5/topminds.html), [*Tencent QingYun (腾讯青云)*](https://join.qq.com/qingyun.html), [*JD Tech Genius Team (京东TGT)*](https://campus.jd.com/#/talentProject?tabKey=4), [*BAAI Star (智源智星)*](https://app.mokahr.com/campus-recruitment/baai/42174#/) and [*Xiaomi Top Talent (小米顶尖)*](https://hr.xiaomi.com/toptalent). If you have a better fit or would like to connect, please also feel free to reach out.
+Meanwhile, I am now seeking **entrepreneurship opportunities**. I have received multiple **top-tier offers** from leading industry labs, e.g., [*Huawei Top Minds (华为天少)*](https://career.huawei.com/reccampportal/portal5/topminds.html), [*Tencent QingYun (腾讯青云)*](https://join.qq.com/qingyun.html), [*JD Tech Genius Team (京东TGT)*](https://campus.jd.com/#/talentProject?tabKey=4), [*BAAI Star (智源智星)*](https://app.mokahr.com/campus-recruitment/baai/42174#/) and [*Xiaomi Top Talent (小米顶尖计划)*](https://hr.xiaomi.com/toptalent). If you have a better fit or would like to connect, please also feel free to reach out.
 
 # 🔥 News
-- *2026.01*: 🔥 Released [RoboBrain 2.5](https://github.com/FlagOpen/RoboBrain2.5) (first author, project lead).
-- *2026.01*: 🎯 Released our new paper [Action-Sketcher](https://action-sketcher.github.io/) (first author, project lead).
-- *2025.12*: 🎯 Released our new paper [Robo-Dopamine](https://robo-dopamine.github.io) (first author, project lead).
-- *2025.10*: 🔥 Released [LLaVA-OneVision-1.5](https://arxiv.org/pdf/2510.26536).
-- *2025.10*: 🔥 Released [RoboOS-NeXT](https://arxiv.org/pdf/2510.26536) (first author, project lead).
-- *2025.09*: 🎉 [Reason-RFT](https://tanhuajie.github.io/ReasonRFT/) accepted to NeurIPS 2025. See you in San Diego, USA!
-- *2025.06*: 🔥 Released [RoboBrain 2.0](https://arxiv.org/abs/2507.02029) and [RoboOS](https://flagopen.github.io/RoboOS/) (first author, project lead).
+- *2026.01*: 🔥 Released [RoboBrain 2.5](https://github.com/FlagOpen/RoboBrain2.5), our more powerful embodied foundation model (first author, project lead).
+- *2026.01*: 🎯 Released our new research paper [Action-Sketcher](https://action-sketcher.github.io/) (first author, project lead).
+- *2025.12*: 🎯 Released our new research paper [Robo-Dopamine](https://robo-dopamine.github.io) (first author, project lead).
+- *2025.10*: 🔥 Released [LLaVA-OneVision-1.5](https://arxiv.org/pdf/2510.26536), a fully open-source MLLM training pipeline from dataset to framework.
+- *2025.10*: 🔥 Released more advanced [RoboOS-NeXT](https://arxiv.org/pdf/2510.26536) (first author, project lead).
+- *2025.09*: 🎉 [Reason-RFT](https://tanhuajie.github.io/ReasonRFT/) accepted to **NeurIPS 2025**. See you in San Diego, USA!
+- *2025.06*: 🎉 Released [RoboBrain 2.0](https://arxiv.org/abs/2507.02029) and [RoboOS](https://flagopen.github.io/RoboOS/) in **BAAI Conference 2025** (first author, project lead).
 - *2025.04*: 🌍 [RoboBrain 1.0](http://arxiv.org/abs/2502.21257/) selected for CVPR 2025’s official [Embodied AI Trends Commentary](https://cvpr.thecvf.com/Conferences/2025/News/AI_Enhanced_Robotics).
-- *2025.02*: 🎉 [RoboBrain 1.0](http://arxiv.org/abs/2502.21257/) accepted to CVPR 2025.
+- *2025.02*: 🎉 [RoboBrain 1.0](http://arxiv.org/abs/2502.21257/) accepted to **CVPR 2025**.
 
 # 📝 Publications 
 
@@ -36,9 +36,9 @@ Meanwhile, I am now seeking **entrepreneurship opportunities**. I have received 
 
 BAAI RoboBrain Team
 
-<span style="color: red;">Co-First Author, Project Lead, Technical Report 2026</span>
+<span style="color: red;">Co-First Author, Project Lead</span>, Technical Report 2026
 
- [**Project**](https://superrobobrain.github.io/) <strong>|</strong>  [**Paper (Coming Soon)**](#) <strong>|</strong> [**Code**](https://github.com/FlagOpen/RoboBrain2.5) ![](https://img.shields.io/github/stars/FlagOpen/RoboBrain2.5) <strong>|</strong> [**Checkpoints**](https://huggingface.co/collections/BAAI/robobrain25)
+[**Project**](https://superrobobrain.github.io/) <strong>|</strong>  [**Paper (Coming Soon)**](#) <strong>|</strong> [**Code**](https://github.com/FlagOpen/RoboBrain2.5) ![](https://img.shields.io/github/stars/FlagOpen/RoboBrain2.5) <strong>|</strong> [**Checkpoints**](https://huggingface.co/collections/BAAI/robobrain25)
 
 </div>
 </div>
@@ -51,7 +51,7 @@ BAAI RoboBrain Team
 
 BAAI RoboBrain Team
 
-<span style="color: red;">Co-First Author, Core Contributor, Technical Report 2025</span>
+<span style="color: red;">Co-First Author, Core Contributor</span>, Technical Report 2025
 
  [**Project**](https://superrobobrain.github.io/) <strong>|</strong>  [**Paper**](https://arxiv.org/abs/2507.02029) <strong>|</strong> [**Code**](https://github.com/FlagOpen/RoboBrain2.5) ![](https://img.shields.io/github/stars/FlagOpen/RoboBrain2.5) <strong>|</strong> [**Checkpoints**](https://huggingface.co/collections/BAAI/robobrain20)
 
@@ -66,7 +66,7 @@ BAAI RoboBrain Team
 
 LLaVA-OneVision Community Contributors
 
-<span style="color: red;">Core Contributor, Technical Report 2025</span>
+<span style="color: red;">Core Contributor</span>, Technical Report 2025
 
 [**Paper**](https://arxiv.org/abs/2509.23661) <strong>|</strong> [**Code**](https://github.com/EvolvingLMMs-Lab/LLaVA-OneVision-1.5) ![](https://img.shields.io/github/stars/EvolvingLMMs-Lab/LLaVA-OneVision-1.5) <strong>|</strong> [**Datasets**](https://huggingface.co/collections/lmms-lab/llava-onevision-15) <strong>|</strong> [**Checkpoints**](https://huggingface.co/collections/lmms-lab/llava-onevision-15)
 
@@ -110,7 +110,7 @@ Yuheng Ji\*, **Huajie Tan\***, Jiayu Shi\*, Xiaoshuai Hao\*, Yuan Zhang, Hengyua
 
 **Huajie Tan\***, Cheng Chi\*, Xiansheng Chen\*, Yuheng Ji\*, Zhongxia Zhao, Xiaoshuai Hao, Yaoxu Lyu, Mingyu Cao, Junkai Zhao, Huaihai Lyu, Enshen Zhou, Ning Chen, Yankai Fu, Cheng Peng, Wei Guo, Dong Liang, Zhuo Chen, Mengsi Lyu, Chenrui He, Yulong Ao, Yonghua Lin, Pengwei Wang, Zhongyuan Wang, Shanghang Zhang
 
-<span style="color: red;">Co-First Author, Project Lead, ArXiv 2025</span>
+<span style="color: red;">Co-First Author, Project Lead</span>, ArXiv 2025
 
  [**Project**](https://flagopen.github.io/RoboOS/) <strong>|</strong>  [**Paper**](https://arxiv.org/abs/2510.26536) <strong>|</strong> [**Code**](https://github.com/FlagOpen/RoboOS) ![](https://img.shields.io/github/stars/FlagOpen/RoboOS) 
 
@@ -125,7 +125,7 @@ Yuheng Ji\*, **Huajie Tan\***, Jiayu Shi\*, Xiaoshuai Hao\*, Yuan Zhang, Hengyua
 
 **Huajie Tan\***, Sixiang Chen\*, Yijie Xu\*, Zixiao Wang, Yuheng Ji, Cheng Chi, Yaoxu Lyu, Zhongxia Zhao, Xiansheng Chen, Peterson Co, Shaoxuan Xie, Guocai Yao, Pengwei Wang, Zhongyuan Wang, Shanghang Zhang
 
-<span style="color: red;">Co-First Author, Project Lead, ArXiv 2025</span>
+<span style="color: red;">Co-First Author, Project Lead</span>, ArXiv 2025
 
 [**Project**](https://robo-dopamine.github.io/) <strong>|</strong>  [**Paper**](https://arxiv.org/abs/2512.23703) <strong>|</strong> [**Code**](https://github.com/FlagOpen/Robo-Dopamine) ![](https://img.shields.io/github/stars/FlagOpen/Robo-Dopamine) <strong>|</strong>  [**Checkpoints**](https://huggingface.co/collections/tanhuajie2001/robo-dopamine)
 
@@ -140,7 +140,7 @@ Yuheng Ji\*, **Huajie Tan\***, Jiayu Shi\*, Xiaoshuai Hao\*, Yuan Zhang, Hengyua
 
 **Huajie Tan\***, Peterson Co\*, Yijie Xu\*, Shanyu Rong, Yuheng Ji, Cheng Chi, Xiansheng Chen, Qiongyu Zhang, Zhongxia Zhao, Pengwei Wang, Zhongyuan Wang, Shanghang Zhang
 
-<span style="color: red;">Co-First Author, Project Lead, ArXiv 2026</span>
+<span style="color: red;">Co-First Author, Project Lead</span>, ArXiv 2026
 
 [**Project**](https://action-sketcher.github.io/) <strong>|</strong>  [**Paper**](https://arxiv.org/abs/2601.01618) <strong>|</strong> [**Code**](https://github.com/FlagOpen/Action-Sketcher) ![](https://img.shields.io/github/stars/FlagOpen/Action-Sketcher)
 
