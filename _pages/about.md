@@ -20,8 +20,8 @@ Meanwhile, I am now seeking **entrepreneurship opportunities**. I have received 
 - *2026.01*: 🔥 Released [RoboBrain 2.5](https://github.com/FlagOpen/RoboBrain2.5), our more powerful embodied foundation model (first author, project lead).
 - *2026.01*: 🎯 Released our new research paper [Action-Sketcher](https://action-sketcher.github.io/) (first author, project lead).
 - *2025.12*: 🎯 Released our new research paper [Robo-Dopamine](https://robo-dopamine.github.io) (first author, project lead).
-- *2025.10*: 🔥 Released [LLaVA-OneVision-1.5](https://arxiv.org/pdf/2510.26536), a fully open framework for democratized MLLM training.
-- *2025.10*: 🔥 Released more advanced [RoboOS-NeXT](https://arxiv.org/pdf/2510.26536) (first author, project lead).
+- *2025.10*: 🔥 Released [LLaVA-OneVision-1.5](https://arxiv.org/abs/2509.23661), a fully open framework for democratized MLLM training.
+- *2025.10*: 🔥 Released more advanced [RoboOS-NeXT](https://arxiv.org/abs/2510.26536) (first author, project lead).
 - *2025.09*: 🎉 [Reason-RFT](https://tanhuajie.github.io/ReasonRFT/) accepted to **NeurIPS 2025**. See you in San Diego, USA!
 - *2025.06*: 🎉 Released [RoboBrain 2.0](https://arxiv.org/abs/2507.02029) and [RoboOS](https://flagopen.github.io/RoboOS/) in **BAAI Conference 2025** (first author, project lead).
 - *2025.04*: 🌍 [RoboBrain 1.0](http://arxiv.org/abs/2502.21257/) selected for **CVPR 2025**’s official [Embodied AI Trends Commentary](https://cvpr.thecvf.com/Conferences/2025/News/AI_Enhanced_Robotics).
