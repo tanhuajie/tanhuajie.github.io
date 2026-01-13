@@ -53,7 +53,7 @@ BAAI RoboBrain Team
 
 <span style="color: red;">Co-First Author, Core Contributor</span>, Technical Report 2025
 
- [**Project**](https://superrobobrain.github.io/) <strong>|</strong>  [**Paper**](https://arxiv.org/abs/2507.02029) <strong>|</strong> [**Code**](https://github.com/FlagOpen/RoboBrain2.5) ![](https://img.shields.io/github/stars/FlagOpen/RoboBrain2.5) <strong>|</strong> [**Checkpoints**](https://huggingface.co/collections/BAAI/robobrain20)
+ [**Project**](https://superrobobrain.github.io/robobrainv2/index.html) <strong>|</strong>  [**Paper**](https://arxiv.org/abs/2507.02029) <strong>|</strong> [**Code**](https://github.com/FlagOpen/RoboBrain2.5) ![](https://img.shields.io/github/stars/FlagOpen/RoboBrain2.5) <strong>|</strong> [**Checkpoints**](https://huggingface.co/collections/BAAI/robobrain20)
 
 </div>
 </div>
@@ -97,7 +97,7 @@ Yuheng Ji\*, **Huajie Tan\***, Jiayu Shi\*, Xiaoshuai Hao\*, Yuan Zhang, Hengyua
 
 <span style="color: red;">Co-First Author, CVPR 2025</span>
 
- [**Project**](https://superrobobrain.github.io/) <strong>|</strong>  [**Paper**](https://arxiv.org/abs/2502.21257) <strong>|</strong> [**Code**](https://github.com/FlagOpen/RoboBrain) ![](https://img.shields.io/github/stars/FlagOpen/RoboBrain) <strong>|</strong>  [**Datasets**](https://huggingface.co/datasets/BAAI/ShareRobot) <strong>|</strong>  [**Checkpoints**](https://huggingface.co/collections/BAAI/robobrain)
+ [**Project**](https://superrobobrain.github.io/robobrainv1/index.html) <strong>|</strong>  [**Paper**](https://arxiv.org/abs/2502.21257) <strong>|</strong> [**Code**](https://github.com/FlagOpen/RoboBrain) ![](https://img.shields.io/github/stars/FlagOpen/RoboBrain) <strong>|</strong>  [**Datasets**](https://huggingface.co/datasets/BAAI/ShareRobot) <strong>|</strong>  [**Checkpoints**](https://huggingface.co/collections/BAAI/robobrain)
 
 </div>
 </div>
@@ -157,5 +157,5 @@ Yuheng Ji\*, **Huajie Tan\***, Jiayu Shi\*, Xiaoshuai Hao\*, Yuan Zhang, Hengyua
 
 # 👥 Services
 - Served as reviewer for CVPR, ICCV, NeurIPS, ICRA
-- Active open-source contributor to [huggingface/tansformers](https://github.com/huggingface/transformers), [huggingface/smolagents](https://github.com/huggingface/smolagents)
+- Active open-source contributor to [huggingface/transformers](https://github.com/huggingface/transformers), [huggingface/smolagents](https://github.com/huggingface/smolagents)
 - Teaching Assistant, Fundamentals of Artificial Intelligence (Instructor: [Prof. Shanghang Zhang](https://pku-hmi-lab.github.io/HMI-Web/leader.html))
