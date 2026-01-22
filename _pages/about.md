@@ -32,7 +32,7 @@ Meanwhile, I am now seeking **entrepreneurship opportunities**. I have received 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Technical Report 2026</div><img src='images/robobrain25.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[RoboBrain 2.5: Depth in Sight, Time in Mind.](https://superrobobrain.github.io/)
+[RoboBrain 2.5: Depth in Sight, Time in Mind.](https://arxiv.org/abs/2601.14352)
 
 BAAI RoboBrain Team
 
