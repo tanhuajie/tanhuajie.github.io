@@ -38,7 +38,7 @@ BAAI RoboBrain Team
 
 <span style="color: red;">Co-First Author, Project Lead</span>, Technical Report 2026
 
-[**Project**](https://superrobobrain.github.io/) <strong>|</strong>  [**Paper (Coming Soon)**](#) <strong>|</strong> [**Code**](https://github.com/FlagOpen/RoboBrain2.5) ![](https://img.shields.io/github/stars/FlagOpen/RoboBrain2.5) <strong>|</strong> [**Checkpoints**](https://huggingface.co/collections/BAAI/robobrain25)
+[**Project**](https://superrobobrain.github.io/) <strong>|</strong>  [**Paper**](https://arxiv.org/abs/2601.14352) <strong>|</strong> [**Code**](https://github.com/FlagOpen/RoboBrain2.5) ![](https://img.shields.io/github/stars/FlagOpen/RoboBrain2.5) <strong>|</strong> [**Checkpoints**](https://huggingface.co/collections/BAAI/robobrain25)
 
 </div>
 </div>
