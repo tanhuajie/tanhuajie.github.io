@@ -68,7 +68,7 @@ LLaVA-OneVision Community Contributors
 
 <span style="color: red;">Core Contributor</span>, Technical Report 2025
 
-[**Paper**](https://arxiv.org/abs/2509.23661) <strong>|</strong> [**Code**](https://github.com/EvolvingLMMs-Lab/LLaVA-OneVision-1.5) ![](https://img.shields.io/github/stars/EvolvingLMMs-Lab/LLaVA-OneVision-1.5?style=social) <strong>|</strong> [**Datasets**](https://huggingface.co/collections/lmms-lab/llava-onevision-15) <strong>|</strong> [**Checkpoints**](https://huggingface.co/collections/lmms-lab/llava-onevision-15)
+[**Paper**](https://arxiv.org/abs/2509.23661) <strong>|</strong> [**Code**](https://github.com/EvolvingLMMs-Lab/LLaVA-OneVision-1.5) ![](https://img.shields.io/github/stars/EvolvingLMMs-Lab/LLaVA-OneVision-1.5) <strong>|</strong> [**Datasets**](https://huggingface.co/collections/lmms-lab/llava-onevision-15) <strong>|</strong> [**Checkpoints**](https://huggingface.co/collections/lmms-lab/llava-onevision-15)
 
 </div>
 </div>
@@ -83,7 +83,7 @@ LLaVA-OneVision Community Contributors
 
 <span style="color: red;">Co-First Author, NeurIPS 2025</span>
 
- [**Project**](https://tanhuajie.github.io/ReasonRFT/) <strong>|</strong>  [**Paper**](https://arxiv.org/abs/2503.20752) <strong>|</strong> [**Code**](https://github.com/tanhuajie/Reason-RFT) ![](https://img.shields.io/github/stars/tanhuajie/Reason-RFT?style=social) <strong>|</strong>  [**Datasets**](https://huggingface.co/datasets/tanhuajie2001/Reason-RFT-CoT-Dataset) <strong>|</strong>  [**Checkpoints**](https://github.com/tanhuajie/Reason-RFT?tab=readme-ov-file#--model-zoo)
+ [**Project**](https://tanhuajie.github.io/ReasonRFT/) <strong>|</strong>  [**Paper**](https://arxiv.org/abs/2503.20752) <strong>|</strong> [**Code**](https://github.com/tanhuajie/Reason-RFT) ![](https://img.shields.io/github/stars/tanhuajie/Reason-RFT) <strong>|</strong>  [**Datasets**](https://huggingface.co/datasets/tanhuajie2001/Reason-RFT-CoT-Dataset) <strong>|</strong>  [**Checkpoints**](https://github.com/tanhuajie/Reason-RFT?tab=readme-ov-file#--model-zoo)
 
 </div>
 </div>
