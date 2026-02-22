@@ -39,6 +39,8 @@ BAAI RoboBrain Team
 
 <span style="color: red;">Co-First Author, Project Lead</span>, Technical Report 2026
 
+***TL;DR:*** RoboBrain 2.5 is a next-generation embodied AI foundation model designed for complex robotic manipulation, driven by two major upgrades: precise 3D spatial reasoning that generates depth-aware, physically-constrained manipulation traces, and dense temporal value estimation that provides step-by-step execution feedback. Together, these advancements enable a more physically grounded and execution-aware intelligence for downstream learning tasks.
+
 [**Project**](https://superrobobrain.github.io/) <strong>|</strong>  [**Paper**](https://arxiv.org/abs/2601.14352) <strong>|</strong> [**Code**](https://github.com/FlagOpen/RoboBrain2.5) ![](https://img.shields.io/github/stars/FlagOpen/RoboBrain2.5) <strong>|</strong> [**Checkpoints**](https://huggingface.co/collections/BAAI/robobrain25)
 
 </div>
@@ -54,7 +56,9 @@ BAAI RoboBrain Team
 
 <span style="color: red;">Co-First Author, Core Contributor</span>, Technical Report 2025
 
- [**Project**](https://superrobobrain.github.io/robobrainv2/index.html) <strong>|</strong>  [**Paper**](https://arxiv.org/abs/2507.02029) <strong>|</strong> [**Code**](https://github.com/FlagOpen/RoboBrain2.5) ![](https://img.shields.io/github/stars/FlagOpen/RoboBrain2.5) <strong>|</strong> [**Checkpoints**](https://huggingface.co/collections/BAAI/robobrain20)
+***TL;DR:*** RoboBrain 2.0 is the previously most powerful open-source embodied brain model designed to unify perception, reasoning, and planning for complex physical tasks. Achieving top performance across diverse spatial and temporal benchmarks, it excels in critical real world capabilities including spatial understanding, trajectory forecasting, and multiple agent long horizon planning, marking a significant step toward developing generalist embodied agents.
+
+[**Project**](https://superrobobrain.github.io/robobrainv2/index.html) <strong>|</strong>  [**Paper**](https://arxiv.org/abs/2507.02029) <strong>|</strong> [**Code**](https://github.com/FlagOpen/RoboBrain2.5) ![](https://img.shields.io/github/stars/FlagOpen/RoboBrain2.5) <strong>|</strong> [**Checkpoints**](https://huggingface.co/collections/BAAI/robobrain20)
 
 </div>
 </div>
@@ -68,6 +72,8 @@ BAAI RoboBrain Team
 LLaVA-OneVision Community Contributors
 
 <span style="color: red;">Core Contributor</span>, Technical Report 2025
+
+***TL;DR:*** LLaVA-OneVision-1.5 is an open and highly efficient family of Large Multimodal Models that achieves state of the art performance with significantly reduced training costs. Powered by massive curated datasets and an optimized training framework developed under a $16,000 budget, the models consistently outperform competitors like Qwen2.5-VL across numerous benchmarks. Additionally, a lightweight reinforcement learning phase unlocks robust chain of thought capabilities to drastically improve complex multimodal reasoning.
 
 [**Paper**](https://arxiv.org/abs/2509.23661) <strong>|</strong> [**Code**](https://github.com/EvolvingLMMs-Lab/LLaVA-OneVision-1.5) ![](https://img.shields.io/github/stars/EvolvingLMMs-Lab/LLaVA-OneVision-1.5) <strong>|</strong> [**Datasets**](https://huggingface.co/collections/lmms-lab/llava-onevision-15) <strong>|</strong> [**Checkpoints**](https://huggingface.co/collections/lmms-lab/llava-onevision-15)
 
