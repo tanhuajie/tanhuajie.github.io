@@ -10,7 +10,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am Huajie Tan (谭桦杰), a third-year M.S. student at the School of Computer Science, Peking University, advised by [Prof. Shanghang Zhang](https://pku-hmi-lab.github.io/HMI-Web/leader.html). Previously, I received my dual-degree B.Eng. from Tianjin University (College of Intelligence and Computing & College of Microelectronics) and was honored with the **Outstanding Graduate Award**.
+I am Huajie Tan (谭桦杰), a third-year M.S. student at the School of Computer Science, Peking University, advised by [Prof. Shanghang Zhang](https://scholar.google.com/citations?user=voqw10cAAAAJ). Previously, I received my dual-degree B.Eng. from Tianjin University (College of Intelligence and Computing & College of Microelectronics) and was honored with the **Outstanding Graduate Award**.
 
 My research focuses on **embodied AI and multi-modal foundation models**. I am currently an intern at the [Beijing Academy of Artificial Intelligence (BAAI)](https://www.baai.ac.cn/en/), exploring pathways toward general-purpose robotic intelligence and real-world deployment of embodied systems. I am also open to collaborative opportunities and research partnerships, feel free to email me: ***tanhuajie@stu.pku.edu.cn***.
 
@@ -177,4 +177,4 @@ Yuheng Ji\*, **Huajie Tan\***, Jiayu Shi\*, Xiaoshuai Hao\*, Yuan Zhang, Hengyua
 # 👥 Services
 - Served as reviewer for CVPR, ICCV, NeurIPS, ICRA
 - Active open-source contributor to [huggingface/transformers](https://github.com/huggingface/transformers), [huggingface/smolagents](https://github.com/huggingface/smolagents)
-- Teaching Assistant, Fundamentals of Artificial Intelligence (Instructor: [Prof. Shanghang Zhang](https://pku-hmi-lab.github.io/HMI-Web/leader.html))
+- Teaching Assistant, Fundamentals of Artificial Intelligence (Instructor: [Prof. Shanghang Zhang](https://scholar.google.com/citations?user=voqw10cAAAAJ))
