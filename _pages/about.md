@@ -17,6 +17,7 @@ My research focuses on **embodied AI and multi-modal foundation models**. I am c
 Meanwhile, I am now seeking **entrepreneurship opportunities**. I have received multiple **top-tier offers** from leading industry labs, e.g., [*Huawei Top Minds (华为天才少年)*](https://career.huawei.com/reccampportal/portal5/topminds.html), [*Tencent QingYun (腾讯青云)*](https://join.qq.com/qingyun.html), [*JD Tech Genius Team (京东TGT)*](https://campus.jd.com/#/talentProject?tabKey=4), [*BAAI Star (智源智星)*](https://app.mokahr.com/campus-recruitment/baai/42174#/) and [*Xiaomi Top Talent (小米顶尖)*](https://hr.xiaomi.com/toptalent). If you have a better fit or would like to connect, please also feel free to reach out.
 
 # 🔥 News
+- *2026.02*: 🎉 Both [Robo-Dopamine](https://robo-dopamine.github.io/) and [Action-Sketcher](https://action-sketcher.github.io/) get accepted to **CVPR 2026**. See you in Denver, Colorado, USA!
 - *2026.01*: 🔥 Released [RoboBrain 2.5](https://github.com/FlagOpen/RoboBrain2.5), our more powerful embodied foundation model (first author, project lead).
 - *2026.01*: 🎯 Released our new research paper [Action-Sketcher](https://action-sketcher.github.io/) (first author, project lead).
 - *2025.12*: 🎯 Released our new research paper [Robo-Dopamine](https://robo-dopamine.github.io) (first author, project lead).
