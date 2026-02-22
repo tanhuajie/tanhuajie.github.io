@@ -41,7 +41,7 @@ BAAI RoboBrain Team
 
 [**Project**](https://superrobobrain.github.io/) <strong>|</strong>  [**Paper**](https://arxiv.org/abs/2601.14352) <strong>|</strong> [**Code**](https://github.com/FlagOpen/RoboBrain2.5) ![](https://img.shields.io/github/stars/FlagOpen/RoboBrain2.5) <strong>|</strong> [**Checkpoints**](https://huggingface.co/collections/BAAI/robobrain25)
 
-***TL;DR:*** RoboBrain 2.5 is a next-generation embodied AI foundation model designed for complex robotic manipulation, driven by two major upgrades: precise 3D spatial reasoning that generates depth-aware, physically-constrained manipulation traces, and dense temporal value estimation that provides step-by-step execution feedback. Together, these advancements enable a more physically grounded and execution-aware intelligence for downstream learning tasks.
+***TL;DR:*** RoboBrain 2.5 is a next-generation embodied AI foundation model designed for complex robotic manipulation, driven by two major upgrades: (1) precise 3D spatial reasoning that generates depth-aware, physically-constrained manipulation traces, and (2) dense temporal value estimation that provides step-by-step execution feedback. Together, these advancements enable a more physically grounded and execution-aware intelligence for downstream learning tasks.
 
 </div>
 </div>
@@ -58,7 +58,7 @@ BAAI RoboBrain Team
 
 [**Project**](https://superrobobrain.github.io/robobrainv2/index.html) <strong>|</strong>  [**Paper**](https://arxiv.org/abs/2507.02029) <strong>|</strong> [**Code**](https://github.com/FlagOpen/RoboBrain2.5) ![](https://img.shields.io/github/stars/FlagOpen/RoboBrain2.5) <strong>|</strong> [**Checkpoints**](https://huggingface.co/collections/BAAI/robobrain20)
 
-***TL;DR:*** RoboBrain 2.0 is the previously most powerful open-source embodied brain model designed to unify perception, reasoning, and planning for complex physical tasks. Achieving top performance across diverse spatial and temporal benchmarks, it excels in critical real world capabilities including spatial understanding, trajectory forecasting, and multiple agent long horizon planning, marking a significant step toward developing generalist embodied agents.
+***TL;DR:*** RoboBrain 2.0 is the previously most powerful embodied brain model designed to unify perception, reasoning, and planning for complex physical tasks. Achieving top performance across diverse spatial and temporal benchmarks, it excels in critical real world capabilities including spatial understanding, trajectory forecasting, and multiple agent long horizon planning, marking a significant step toward developing generalist embodied agents.
 
 </div>
 </div>
@@ -92,6 +92,8 @@ LLaVA-OneVision Community Contributors
 
 [**Project**](https://robo-dopamine.github.io/) <strong>|</strong>  [**Paper**](https://arxiv.org/abs/2512.23703) <strong>|</strong> [**Code**](https://github.com/FlagOpen/Robo-Dopamine) ![](https://img.shields.io/github/stars/FlagOpen/Robo-Dopamine) <strong>|</strong>  [**Checkpoints**](https://huggingface.co/collections/tanhuajie2001/robo-dopamine)
 
+***TL;DR:*** Joy is dopamine’s handiwork—whether in humans or in robotics.
+
 </div>
 </div>
 
@@ -107,6 +109,8 @@ LLaVA-OneVision Community Contributors
 
 [**Project**](https://action-sketcher.github.io/) <strong>|</strong>  [**Paper**](https://arxiv.org/abs/2601.01618) <strong>|</strong> [**Code**](https://github.com/FlagOpen/Action-Sketcher) ![](https://img.shields.io/github/stars/FlagOpen/Action-Sketcher)
 
+***TL;DR:*** Make intent visible. Make action reliable.
+
 </div>
 </div>
 
@@ -120,7 +124,7 @@ LLaVA-OneVision Community Contributors
 
 <span style="color: red;">Co-First Author, NeurIPS 2025</span>
 
- [**Project**](https://tanhuajie.github.io/ReasonRFT/) <strong>|</strong>  [**Paper**](https://arxiv.org/abs/2503.20752) <strong>|</strong> [**Code**](https://github.com/tanhuajie/Reason-RFT) ![](https://img.shields.io/github/stars/tanhuajie/Reason-RFT) <strong>|</strong>  [**Datasets**](https://huggingface.co/datasets/tanhuajie2001/Reason-RFT-CoT-Dataset) <strong>|</strong>  [**Checkpoints**](https://github.com/tanhuajie/Reason-RFT?tab=readme-ov-file#--model-zoo)
+[**Project**](https://tanhuajie.github.io/ReasonRFT/) <strong>|</strong>  [**Paper**](https://arxiv.org/abs/2503.20752) <strong>|</strong> [**Code**](https://github.com/tanhuajie/Reason-RFT) ![](https://img.shields.io/github/stars/tanhuajie/Reason-RFT) <strong>|</strong>  [**Datasets**](https://huggingface.co/datasets/tanhuajie2001/Reason-RFT-CoT-Dataset) <strong>|</strong>  [**Checkpoints**](https://github.com/tanhuajie/Reason-RFT?tab=readme-ov-file#--model-zoo)
 
 </div>
 </div>
@@ -135,7 +139,7 @@ Yuheng Ji\*, **Huajie Tan\***, Jiayu Shi\*, Xiaoshuai Hao\*, Yuan Zhang, Hengyua
 
 <span style="color: red;">Co-First Author, CVPR 2025</span>
 
- [**Project**](https://superrobobrain.github.io/robobrainv1/index.html) <strong>|</strong>  [**Paper**](https://arxiv.org/abs/2502.21257) <strong>|</strong> [**Code**](https://github.com/FlagOpen/RoboBrain) ![](https://img.shields.io/github/stars/FlagOpen/RoboBrain) <strong>|</strong>  [**Datasets**](https://huggingface.co/datasets/BAAI/ShareRobot) <strong>|</strong>  [**Checkpoints**](https://huggingface.co/collections/BAAI/robobrain)
+[**Project**](https://superrobobrain.github.io/robobrainv1/index.html) <strong>|</strong>  [**Paper**](https://arxiv.org/abs/2502.21257) <strong>|</strong> [**Code**](https://github.com/FlagOpen/RoboBrain) ![](https://img.shields.io/github/stars/FlagOpen/RoboBrain) <strong>|</strong>  [**Datasets**](https://huggingface.co/datasets/BAAI/ShareRobot) <strong>|</strong>  [**Checkpoints**](https://huggingface.co/collections/BAAI/robobrain)
 
 </div>
 </div>
@@ -150,7 +154,7 @@ Yuheng Ji\*, **Huajie Tan\***, Jiayu Shi\*, Xiaoshuai Hao\*, Yuan Zhang, Hengyua
 
 <span style="color: red;">Co-First Author, Project Lead</span>, ArXiv 2025
 
- [**Project**](https://flagopen.github.io/RoboOS/) <strong>|</strong>  [**Paper**](https://arxiv.org/abs/2510.26536) <strong>|</strong> [**Code**](https://github.com/FlagOpen/RoboOS) ![](https://img.shields.io/github/stars/FlagOpen/RoboOS) 
+[**Project**](https://flagopen.github.io/RoboOS/) <strong>|</strong>  [**Paper**](https://arxiv.org/abs/2510.26536) <strong>|</strong> [**Code**](https://github.com/FlagOpen/RoboOS) ![](https://img.shields.io/github/stars/FlagOpen/RoboOS) 
 
 </div>
 </div>
