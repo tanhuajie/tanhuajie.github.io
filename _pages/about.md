@@ -126,6 +126,8 @@ LLaVA-OneVision Community Contributors
 
 [**Project**](https://tanhuajie.github.io/ReasonRFT/) <strong>|</strong>  [**Paper**](https://arxiv.org/abs/2503.20752) <strong>|</strong> [**Code**](https://github.com/tanhuajie/Reason-RFT) ![](https://img.shields.io/github/stars/tanhuajie/Reason-RFT) <strong>|</strong>  [**Datasets**](https://huggingface.co/datasets/tanhuajie2001/Reason-RFT-CoT-Dataset) <strong>|</strong>  [**Checkpoints**](https://github.com/tanhuajie/Reason-RFT?tab=readme-ov-file#--model-zoo)
 
+***TL;DR:*** Reason-RFT is a pioneering two-stage RFT framework that enhances visual reasoning in Vision Language Models, delivering superior performance, data efficiency, and robust generalization under domain shifts across various complex tasks.
+
 </div>
 </div>
 
@@ -141,6 +143,8 @@ Yuheng Ji\*, **Huajie Tan\***, Jiayu Shi\*, Xiaoshuai Hao\*, Yuan Zhang, Hengyua
 
 [**Project**](https://superrobobrain.github.io/robobrainv1/index.html) <strong>|</strong>  [**Paper**](https://arxiv.org/abs/2502.21257) <strong>|</strong> [**Code**](https://github.com/FlagOpen/RoboBrain) ![](https://img.shields.io/github/stars/FlagOpen/RoboBrain) <strong>|</strong>  [**Datasets**](https://huggingface.co/datasets/BAAI/ShareRobot) <strong>|</strong>  [**Checkpoints**](https://huggingface.co/collections/BAAI/robobrain)
 
+***TL;DR:*** RoboBrain is the first unified embodied brain model, equiped with planning capability, affordance perception and trajectory prediction.
+
 </div>
 </div>
 
@@ -154,7 +158,9 @@ Yuheng Ji\*, **Huajie Tan\***, Jiayu Shi\*, Xiaoshuai Hao\*, Yuan Zhang, Hengyua
 
 <span style="color: red;">Co-First Author, Project Lead</span>, ArXiv 2025
 
-[**Project**](https://flagopen.github.io/RoboOS/) <strong>|</strong>  [**Paper**](https://arxiv.org/abs/2510.26536) <strong>|</strong> [**Code**](https://github.com/FlagOpen/RoboOS) ![](https://img.shields.io/github/stars/FlagOpen/RoboOS) 
+[**Project**](https://flagopen.github.io/RoboOS/) <strong>|</strong>  [**Paper**](https://arxiv.org/abs/2510.26536) <strong>|</strong> [**Code**](https://github.com/FlagOpen/RoboOS) ![](https://img.shields.io/github/stars/FlagOpen/RoboOS)
+
+***TL;DR:*** RoboOS-NeXT is a unified memory-based framework for lifelong, scalable, and robust multi-robot collaboration.
 
 </div>
 </div>
