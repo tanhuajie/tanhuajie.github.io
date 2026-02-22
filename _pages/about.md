@@ -126,7 +126,7 @@ LLaVA-OneVision Community Contributors
 
 [**Project**](https://tanhuajie.github.io/ReasonRFT/) <strong>|</strong>  [**Paper**](https://arxiv.org/abs/2503.20752) <strong>|</strong> [**Code**](https://github.com/tanhuajie/Reason-RFT) ![](https://img.shields.io/github/stars/tanhuajie/Reason-RFT) <strong>|</strong>  [**Datasets**](https://huggingface.co/datasets/tanhuajie2001/Reason-RFT-CoT-Dataset) <strong>|</strong>  [**Checkpoints**](https://github.com/tanhuajie/Reason-RFT?tab=readme-ov-file#--model-zoo)
 
-***TL;DR:*** Reason-RFT is a pioneering two-stage RFT framework that enhances visual reasoning in Vision Language Models, delivering superior performance, data efficiency, and robust generalization under domain shifts across various complex tasks.
+***TL;DR:*** Reason-RFT is a pioneering two-stage RFT framework that enhances visual reasoning in VLMs, delivering superior performance, data efficiency, and robust generalization under domain shifts across various complex tasks.
 
 </div>
 </div>
