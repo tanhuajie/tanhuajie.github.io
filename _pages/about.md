@@ -37,7 +37,7 @@ Meanwhile, I am now seeking **entrepreneurship opportunities**. I have received 
 
 BAAI RoboBrain Team
 
-<span style="color: red;">Co-First Author, Project Lead</span>, Technical Report 2026
+<span style="color: red;">First Author, Project Lead</span>, Technical Report 2026
 
 [**Project**](https://superrobobrain.github.io/) <strong>|</strong>  [**Paper**](https://arxiv.org/abs/2601.14352) <strong>|</strong> [**Code**](https://github.com/FlagOpen/RoboBrain2.5) ![](https://img.shields.io/github/stars/FlagOpen/RoboBrain2.5) <strong>|</strong> [**Checkpoints**](https://huggingface.co/collections/BAAI/robobrain25)
 
@@ -54,7 +54,7 @@ BAAI RoboBrain Team
 
 BAAI RoboBrain Team
 
-<span style="color: red;">Co-First Author, Core Contributor</span>, Technical Report 2025
+<span style="color: red;">First Author, Core Contributor</span>, Technical Report 2025
 
 [**Project**](https://superrobobrain.github.io/robobrainv2/index.html) <strong>|</strong>  [**Paper**](https://arxiv.org/abs/2507.02029) <strong>|</strong> [**Code**](https://github.com/FlagOpen/RoboBrain2.5) ![](https://img.shields.io/github/stars/FlagOpen/RoboBrain2.5) <strong>|</strong> [**Checkpoints**](https://huggingface.co/collections/BAAI/robobrain20)
 
@@ -88,7 +88,7 @@ LLaVA-OneVision Community Contributors
 
 **Huajie Tan\***, Sixiang Chen\*, Yijie Xu\*, Zixiao Wang, Yuheng Ji, Cheng Chi, Yaoxu Lyu, Zhongxia Zhao, Xiansheng Chen, Peterson Co, Shaoxuan Xie, Guocai Yao, Pengwei Wang, Zhongyuan Wang, Shanghang Zhang
 
-<span style="color: red;">Co-First Author, Project Lead, CVPR 2026</span>
+<span style="color: red;">First Author, Project Lead, CVPR 2026</span>
 
 [**Project**](https://robo-dopamine.github.io/) <strong>|</strong>  [**Paper**](https://arxiv.org/abs/2512.23703) <strong>|</strong> [**Code**](https://github.com/FlagOpen/Robo-Dopamine) ![](https://img.shields.io/github/stars/FlagOpen/Robo-Dopamine) <strong>|</strong>  [**Checkpoints**](https://huggingface.co/collections/tanhuajie2001/robo-dopamine)
 
@@ -105,7 +105,7 @@ LLaVA-OneVision Community Contributors
 
 **Huajie Tan\***, Peterson Co\*, Yijie Xu\*, Shanyu Rong, Yuheng Ji, Cheng Chi, Xiansheng Chen, Qiongyu Zhang, Zhongxia Zhao, Pengwei Wang, Zhongyuan Wang, Shanghang Zhang
 
-<span style="color: red;">Co-First Author, Project Lead, CVPR 2026</span>
+<span style="color: red;">First Author, Project Lead, CVPR 2026</span>
 
 [**Project**](https://action-sketcher.github.io/) <strong>|</strong>  [**Paper**](https://arxiv.org/abs/2601.01618) <strong>|</strong> [**Code**](https://github.com/FlagOpen/Action-Sketcher) ![](https://img.shields.io/github/stars/FlagOpen/Action-Sketcher)
 
@@ -122,7 +122,7 @@ LLaVA-OneVision Community Contributors
 
 **Huajie Tan\***, Yuheng Ji\*, Xiaoshuai Hao\*, Xiansheng Chen, Pengwei Wang, Zhongyuan Wang, Shanghang Zhang
 
-<span style="color: red;">Co-First Author, NeurIPS 2025</span>
+<span style="color: red;">First Author, NeurIPS 2025</span>
 
 [**Project**](https://tanhuajie.github.io/ReasonRFT/) <strong>|</strong>  [**Paper**](https://arxiv.org/abs/2503.20752) <strong>|</strong> [**Code**](https://github.com/tanhuajie/Reason-RFT) ![](https://img.shields.io/github/stars/tanhuajie/Reason-RFT) <strong>|</strong>  [**Datasets**](https://huggingface.co/datasets/tanhuajie2001/Reason-RFT-CoT-Dataset) <strong>|</strong>  [**Checkpoints**](https://github.com/tanhuajie/Reason-RFT?tab=readme-ov-file#--model-zoo)
 
@@ -139,7 +139,7 @@ LLaVA-OneVision Community Contributors
 
 Yuheng Ji\*, **Huajie Tan\***, Jiayu Shi\*, Xiaoshuai Hao\*, Yuan Zhang, Hengyuan Zhang, Pengwei Wang, Mengdi Zhao, Yao Mu, Pengju An, Xinda Xue, Qinghang Su, Huaihai Lyu, Xiaolong Zheng, Jiaming Liu, Zhongyuan Wang, Shanghang Zhang
 
-<span style="color: red;">Co-First Author, CVPR 2025</span>
+<span style="color: red;">First Author, CVPR 2025</span>
 
 [**Project**](https://superrobobrain.github.io/robobrainv1/index.html) <strong>|</strong>  [**Paper**](https://arxiv.org/abs/2502.21257) <strong>|</strong> [**Code**](https://github.com/FlagOpen/RoboBrain) ![](https://img.shields.io/github/stars/FlagOpen/RoboBrain) <strong>|</strong>  [**Datasets**](https://huggingface.co/datasets/BAAI/ShareRobot) <strong>|</strong>  [**Checkpoints**](https://huggingface.co/collections/BAAI/robobrain)
 
@@ -156,7 +156,7 @@ Yuheng Ji\*, **Huajie Tan\***, Jiayu Shi\*, Xiaoshuai Hao\*, Yuan Zhang, Hengyua
 
 **Huajie Tan\***, Cheng Chi\*, Xiansheng Chen\*, Yuheng Ji\*, Zhongxia Zhao, Xiaoshuai Hao, Yaoxu Lyu, Mingyu Cao, Junkai Zhao, Huaihai Lyu, Enshen Zhou, Ning Chen, Yankai Fu, Cheng Peng, Wei Guo, Dong Liang, Zhuo Chen, Mengsi Lyu, Chenrui He, Yulong Ao, Yonghua Lin, Pengwei Wang, Zhongyuan Wang, Shanghang Zhang
 
-<span style="color: red;">Co-First Author, Project Lead</span>, ArXiv 2025
+<span style="color: red;">First Author, Project Lead</span>, ArXiv 2025
 
 [**Project**](https://flagopen.github.io/RoboOS/) <strong>|</strong>  [**Paper**](https://arxiv.org/abs/2510.26536) <strong>|</strong> [**Code**](https://github.com/FlagOpen/RoboOS) ![](https://img.shields.io/github/stars/FlagOpen/RoboOS)
 
