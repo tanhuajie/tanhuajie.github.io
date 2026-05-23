@@ -17,6 +17,7 @@ My research focuses on **embodied AI and multi-modal foundation models**. I am c
 Meanwhile, I am now seeking **entrepreneurship opportunities**. I have received multiple **top-tier offers** from leading industry labs, e.g., [*Huawei Top Minds (华为天才少年)*](https://career.huawei.com/reccampportal/portal5/topminds.html), [*Tencent QingYun (腾讯青云)*](https://join.qq.com/qingyun.html), [*JD Tech Genius Team (京东TGT)*](https://campus.jd.com/#/talentProject?tabKey=4), [*BAAI Star (智源智星)*](https://app.mokahr.com/campus-recruitment/baai/42174#/) and [*Xiaomi Top Talent (小米顶尖)*](https://hr.xiaomi.com/toptalent). If you have a better fit or would like to connect, please also feel free to reach out.
 
 # 🔥 News
+- *2026.05*: 🔥 Released [LLaVA-OneVision-2](https://evolvinglmms-lab.github.io/LLaVA-OneVision-2), the next-generation open vision-language model in the LLaVA-OneVision series (core contributor).
 - *2026.02*: 🎉 Both [Robo-Dopamine](https://robo-dopamine.github.io/) and [Action-Sketcher](https://action-sketcher.github.io/) get accepted to **CVPR 2026**. See you in Denver, Colorado, USA!
 - *2026.01*: 🔥 Released [RoboBrain 2.5](https://github.com/FlagOpen/RoboBrain2.5), our more powerful embodied foundation model (first author, project lead).
 - *2026.01*: 🎯 Released our new research paper [Action-Sketcher](https://action-sketcher.github.io/) (first author, project lead).
@@ -59,6 +60,23 @@ BAAI RoboBrain Team
 [**Project**](https://superrobobrain.github.io/robobrainv2/index.html) <strong>|</strong>  [**Paper**](https://arxiv.org/abs/2507.02029) <strong>|</strong> [**Code**](https://github.com/FlagOpen/RoboBrain2.5) ![](https://img.shields.io/github/stars/FlagOpen/RoboBrain2.5) <strong>|</strong> [**Checkpoints**](https://huggingface.co/collections/BAAI/robobrain20)
 
 ***TL;DR:*** RoboBrain 2.0 is the previously most powerful embodied brain model designed to unify perception, reasoning, and planning for complex physical tasks. Achieving top performance across diverse spatial and temporal benchmarks, it excels in critical real world capabilities including spatial understanding, trajectory forecasting, and multiple agent long horizon planning, marking a significant step toward developing generalist embodied agents.
+
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Technical Report 2025</div><img src='images/ov2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[LLaVA-OneVision-2: Towards Next-Generation Perceptual Intelligence](https://cdn.jsdelivr.net/gh/anxiangsir/ov2_asset@main/LLaVA_OneVision_2.pdf)
+
+LLaVA-OneVision Community Contributors
+
+<span style="color: red;">Core Contributor</span>, Technical Report 2026
+
+[**Project**](https://evolvinglmms-lab.github.io/LLaVA-OneVision-2) <strong>|</strong>  [**Paper**](https://cdn.jsdelivr.net/gh/anxiangsir/ov2_asset@main/LLaVA_OneVision_2.pdf) <strong>|</strong> [**Code**](https://github.com/EvolvingLMMs-Lab/LLaVA-OneVision-2) ![](https://img.shields.io/github/stars/EvolvingLMMs-Lab/LLaVA-OneVision-2) <strong>|</strong> [**Datasets**](https://huggingface.co/datasets/mvp-lab/LLaVA-OneVision-2-Data) <strong>|</strong> [**Checkpoints**](https://huggingface.co/lmms-lab-encoder/LLaVA-OneVision-2-8B-Instruct)
+
+***TL;DR:*** LLaVA-OneVision-2 is the next-generation open vision-language model in the LLaVA-OneVision series, delivering stronger unified perception across video, spatial understanding, temporal grounding, and tracking. Built with a native OneVision-Encoder, efficient windowed attention, and a new codec-stream tokenization strategy for adaptive long-video compression, LLaVA-OV-2 achieves major gains over Qwen3-VL-8B, including +44.8 JumpScore mAP, while releasing code, data, and models as open-source resources.
 
 </div>
 </div>
@@ -175,6 +193,6 @@ Yuheng Ji\*, **Huajie Tan\***, Jiayu Shi\*, Xiaoshuai Hao\*, Yuan Zhang, Hengyua
 - *2024.05 - 2024.11*, [DeepGlint](https://www.deepglint.com/), Beijing.
 
 # 👥 Services
-- Served as reviewer for CVPR, ICCV, NeurIPS, ICRA
+- Served as reviewer for TPAMI, CVPR, ICCV, NeurIPS, ICRA, IROS.
 - Active open-source contributor to [huggingface/transformers](https://github.com/huggingface/transformers), [huggingface/smolagents](https://github.com/huggingface/smolagents)
 - Teaching Assistant, Fundamentals of Artificial Intelligence (Instructor: [Prof. Shanghang Zhang](https://scholar.google.com/citations?user=voqw10cAAAAJ))
