@@ -17,7 +17,7 @@ My research focuses on **embodied AI and multi-modal foundation models**. I am c
 Meanwhile, I am now seeking **entrepreneurship opportunities**. I have received multiple **top-tier offers** from leading industry labs, e.g., [*Huawei Top Minds (华为天才少年)*](https://career.huawei.com/reccampportal/portal5/topminds.html), [*Tencent QingYun (腾讯青云)*](https://join.qq.com/qingyun.html), [*JD Tech Genius Team (京东TGT)*](https://campus.jd.com/#/talentProject?tabKey=4), [*BAAI Star (智源智星)*](https://app.mokahr.com/campus-recruitment/baai/42174#/) and [*Xiaomi Top Talent (小米顶尖)*](https://hr.xiaomi.com/toptalent). If you have a better fit or would like to connect, please also feel free to reach out.
 
 # 🔥 News
-- *2026.05*: 🔥 Released [LLaVA-OneVision-2](https://evolvinglmms-lab.github.io/LLaVA-OneVision-2), the next-generation open vision-language model in the LLaVA-OneVision series (core contributor).
+- *2026.05*: 🔥 Released [LLaVA-OneVision-2](https://evolvinglmms-lab.github.io/LLaVA-OneVision-2), the next-generation open vision-language model in the LLaVA-OV series.
 - *2026.02*: 🎉 Both [Robo-Dopamine](https://robo-dopamine.github.io/) and [Action-Sketcher](https://action-sketcher.github.io/) get accepted to **CVPR 2026**. See you in Denver, Colorado, USA!
 - *2026.01*: 🔥 Released [RoboBrain 2.5](https://github.com/FlagOpen/RoboBrain2.5), our more powerful embodied foundation model (first author, project lead).
 - *2026.01*: 🎯 Released our new research paper [Action-Sketcher](https://action-sketcher.github.io/) (first author, project lead).
@@ -65,7 +65,7 @@ BAAI RoboBrain Team
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Technical Report 2025</div><img src='images/ov2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Technical Report 2026</div><img src='images/ov2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [LLaVA-OneVision-2: Towards Next-Generation Perceptual Intelligence](https://cdn.jsdelivr.net/gh/anxiangsir/ov2_asset@main/LLaVA_OneVision_2.pdf)
