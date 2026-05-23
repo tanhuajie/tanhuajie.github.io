@@ -108,7 +108,7 @@ LLaVA-OneVision Community Contributors
 
 <span style="color: red;">First Author, Project Lead, CVPR 2026</span>
 
-[**Project**](https://robo-dopamine.github.io/) <strong>|</strong>  [**Paper**](https://arxiv.org/abs/2512.23703) <strong>|</strong> [**Code**](https://github.com/FlagOpen/Robo-Dopamine) ![](https://img.shields.io/github/stars/FlagOpen/Robo-Dopamine) <strong>|</strong>  [**Checkpoints**](https://huggingface.co/collections/tanhuajie2001/robo-dopamine)
+[**Project**](https://robo-dopamine.github.io/) <strong>|</strong>  [**Paper**](https://arxiv.org/abs/2512.23703) <strong>|</strong> [**Code**](https://github.com/FlagOpen/Robo-Dopamine) ![](https://img.shields.io/github/stars/FlagOpen/Robo-Dopamine) <strong>|</strong>  [**Datasets**](https://huggingface.co/datasets/tanhuajie2001/Robo-Dopamine-GRM-Dataset) <strong>|</strong>  [**Checkpoints**](https://huggingface.co/collections/tanhuajie2001/robo-dopamine)
 
 ***TL;DR:*** Joy is dopamine’s handiwork—whether in humans or in robotics.
 
