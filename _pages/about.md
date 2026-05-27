@@ -68,13 +68,13 @@ BAAI RoboBrain Team
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Technical Report 2026</div><img src='images/ov2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[LLaVA-OneVision-2: Towards Next-Generation Perceptual Intelligence](https://cdn.jsdelivr.net/gh/anxiangsir/ov2_asset@main/LLaVA_OneVision_2.pdf)
+[LLaVA-OneVision-2: Towards Next-Generation Perceptual Intelligence](https://arxiv.org/abs/2605.25979)
 
 LLaVA-OneVision Community Contributors
 
 <span style="color: red;">Core Contributor</span>, Technical Report 2026
 
-[**Project**](https://evolvinglmms-lab.github.io/LLaVA-OneVision-2) <strong>|</strong>  [**Paper**](https://cdn.jsdelivr.net/gh/anxiangsir/ov2_asset@main/LLaVA_OneVision_2.pdf) <strong>|</strong> [**Code**](https://github.com/EvolvingLMMs-Lab/LLaVA-OneVision-2) ![](https://img.shields.io/github/stars/EvolvingLMMs-Lab/LLaVA-OneVision-2) <strong>|</strong> [**Datasets**](https://huggingface.co/datasets/mvp-lab/LLaVA-OneVision-2-Data) <strong>|</strong> [**Checkpoints**](https://huggingface.co/lmms-lab-encoder/LLaVA-OneVision-2-8B-Instruct)
+[**Project**](https://evolvinglmms-lab.github.io/LLaVA-OneVision-2) <strong>|</strong>  [**Paper**](https://arxiv.org/abs/2605.25979) <strong>|</strong> [**Code**](https://github.com/EvolvingLMMs-Lab/LLaVA-OneVision-2) ![](https://img.shields.io/github/stars/EvolvingLMMs-Lab/LLaVA-OneVision-2) <strong>|</strong> [**Datasets**](https://huggingface.co/datasets/mvp-lab/LLaVA-OneVision-2-Data) <strong>|</strong> [**Checkpoints**](https://huggingface.co/lmms-lab-encoder/LLaVA-OneVision-2-8B-Instruct)
 
 ***TL;DR:*** LLaVA-OneVision-2 is the next-generation open vision-language model in the LLaVA-OneVision series, delivering stronger unified perception across video, spatial understanding, temporal grounding, and tracking. Built with a native OneVision-Encoder, efficient windowed attention, and a new codec-stream tokenization strategy for adaptive long-video compression, LLaVA-OV-2 achieves major gains over Qwen3-VL-8B, including +44.8 JumpScore mAP, while releasing code, data, and models as open-source resources.
 
